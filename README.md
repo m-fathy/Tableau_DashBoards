@@ -18,15 +18,7 @@ With a simple click, users can drill down into specific data points, revealing f
 Hierarchy and Context Filters:
 
 The dashboard incorporates hierarchical filtering and context filters, ensuring that users can focus on subsets of data that are most relevant to their analysis.![FIRST DASH](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/1da52406-f427-4e91-b6c2-4d54a27070b6)
-![Analysis For Products](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/b0726d64-ffc9-4e22-9f76-8200637eb2a3)
-![THIRD  DASH ](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/67c27fcd-598f-4ecc-82dd-ed0790c14765)
-![THIRD  DASH ](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/714517c5-a4fc-4acf-acb7-db1fe37bb404)
-![FIRST DASH](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/f50410c3-f291-408e-bdf2-09d87f05dbc1)
-![Analysis For Products](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/f844d11d-9c66-47c6-b65d-aa6b011c8dc7)
-![THIRD  DASH ](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/747a8987-f870-42a5-85be-b3e17fe6cb7c)
-![FIRST DASH](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/514d4b2c-599d-49a9-949c-612002fef29a)
-![FIRST DASH](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/9adde372-0890-43be-96c2-ad614817e272)
-![FIRST DASH](https://github.com/m-fathy/Tableau_DashBoards/assets/63368183/32cd71fc-5921-4adc-abd1-c45896396e4b)
+
 
 Top N Parameters:
 
